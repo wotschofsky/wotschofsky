@@ -3,6 +3,8 @@
     ✨
     <a href="https://wotschofsky.com">About</a>
     ✨
+    <a href="https://wotschofsky.com/talks">Talks</a>
+    ✨
     <a href="https://wotschofsky.com/blog">Blog</a>
     ✨
   </b>
